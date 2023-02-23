@@ -1,0 +1,9 @@
+<form (submit)="searchProducts()">
+    <label for="name">Nom:</label>
+    <input type="text" id="name" [(ngModel)]="name" name="name">
+  
+    <label for="maxPrice">Prix maximum:</label>
+    <input type="number" id="maxPrice" [(ngModel)]="maxPrice" name="maxPrice">
+  
+    <button type="submit">Rechercher</button>
+  </form>
