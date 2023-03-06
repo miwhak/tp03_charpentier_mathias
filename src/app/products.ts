@@ -3,5 +3,5 @@ export const products = [
     { id: 2, name: 'Bande de poignet', price: 24.99, description: 'Les bandes de poignet sont conçues pour aider à réduire le risque de blessures, soulager le travail du poignet et à améliorer la stabilité lors de levées lourdes.' },
     { id: 3, name: 'Magnésie liquide', price: 9.99, description: 'La magnésie liquide est une substance liquide utilisée pour améliorer la prise et la traction lors des exercices de musculation et d"escalade. Elle est généralement appliquée directement sur les mains pour aider à absorber la sueur et à améliorer l"adhérence.' },
     { id: 4, name: 'Shaker', price: 14.99, description: 'Un shaker est un accessoire de musculation utilisé pour mélanger des boissons protéinées, des suppléments et d"autres ingrédients en poudre. ' },
-    { id: 5, name: 'bande élastique', price: 39.50, description: 'es bandes élastiques sont des accessoires de musculation polyvalents qui peuvent être utilisés pour une variété d"exercices de musculation et d"étirement.' }
+    { id: 5, name: 'Bande élastique', price: 39.50, description: 'es bandes élastiques sont des accessoires de musculation polyvalents qui peuvent être utilisés pour une variété d"exercices de musculation et d"étirement.' }
   ];
