@@ -1,0 +1,47 @@
+// définition des couleurs
+$primary-color: #3498db;
+$secondary-color: #2c3e50;
+
+// style global de la page
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+// style du composant de recherche
+app-product-search {
+  display: block;
+  margin-bottom: 20px;
+}
+
+// style du tableau de produits
+table {
+  width: 100%;
+  border-collapse: collapse;
+
+  th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+
+  thead {
+    background-color: $primary-color;
+    color: #fff;
+  }
+
+  tbody {
+    tr {
+      &:nth-child(even) {
+        background-color: #f2f2f2;
+      }
+
+      &:hover {
+        background-color: $secondary-color;
+        color: #fff;
+        cursor: pointer;
+      }
+    }
+  }
+}

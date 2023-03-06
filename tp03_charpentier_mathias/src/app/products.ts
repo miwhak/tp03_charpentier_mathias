@@ -1,7 +1,7 @@
 export const products = [
-    { id: 1, name: 'Produit 1', price: 10.99, description: 'Ceci est la description du produit 1.' },
-    { id: 2, name: 'Produit 2', price: 20.99, description: 'Ceci est la description du produit 2.' },
-    { id: 3, name: 'Produit 3', price: 30.99, description: 'Ceci est la description du produit 3.' },
-    { id: 4, name: 'Produit 4', price: 40.99, description: 'Ceci est la description du produit 4.' },
-    { id: 5, name: 'Produit 5', price: 50.99, description: 'Ceci est la description du produit 5.' }
+    { id: 1, name: 'Ceinture de force', price: 119.99, description: 'La ceinture de force est un accessoire de musculation conçue pour aider à réduire le risque de blessures en permettant au pratiquant de mieux créer une pression abdominale lors d"exercices de soulevé lourd.' },
+    { id: 2, name: 'Bande de poignet', price: 24.99, description: 'Les bandes de poignet sont conçues pour aider à réduire le risque de blessures, soulager le travail du poignet et à améliorer la stabilité lors de levées lourdes.' },
+    { id: 3, name: 'Magnésie liquide', price: 9.99, description: 'La magnésie liquide est une substance liquide utilisée pour améliorer la prise et la traction lors des exercices de musculation et d"escalade. Elle est généralement appliquée directement sur les mains pour aider à absorber la sueur et à améliorer l"adhérence.' },
+    { id: 4, name: 'Shaker', price: 14.99, description: 'Un shaker est un accessoire de musculation utilisé pour mélanger des boissons protéinées, des suppléments et d"autres ingrédients en poudre. ' },
+    { id: 5, name: 'bande élastique', price: 39.50, description: 'es bandes élastiques sont des accessoires de musculation polyvalents qui peuvent être utilisés pour une variété d"exercices de musculation et d"étirement.' }
   ];
